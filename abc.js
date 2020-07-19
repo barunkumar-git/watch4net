@@ -1,1 +1,1 @@
-<javascript></javascript>
+<javascript>Master conflict</javascript>
